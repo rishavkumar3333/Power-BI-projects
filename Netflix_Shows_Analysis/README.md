@@ -52,7 +52,7 @@ The dashboard presents the following metrics:
 ```text
 Netflix_Shows_Analysis/
 ├── Dashboard_file/
-│   └── Netflix_Analysis.pbix
+│   └── Netflix_Shows_Analysis.pbix
 ├── Dataset/
 │   └── netflix_titles.csv
 ├── Screenshots/
