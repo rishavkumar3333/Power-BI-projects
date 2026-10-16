@@ -75,9 +75,9 @@ Bank-Customer-Churn-Analysis/
 ├── Dashboard_file/
 │   └── Bank_Customer_Churn_Analysis.pbix
 ├── Dataset/
-│   └── Bank_Customer_Churn_Dataset.csv
+│   └── Churn_Modelling.csv
 ├── Screenshots/
-│   ├── Bank_Customer_Churn_Landing_Page.png
+│   ├── Landing_Page.png
 │   ├── Customer_Churn_Overview.png
 │   ├── Customer_Churn_Influencers.png
 │   └── Customer_Details.png
