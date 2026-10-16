@@ -16,7 +16,7 @@ This project analyzes Netflix movies and TV shows using Microsoft Power BI. The 
 ![Netflix Content Distribution Dashboard](Screenshots/Content_Distribution.png)
 
 ### 4. Country and Genre Intelligence
-![Netflix Country and Genre Dashboard](Screenshots/Country_Genre_Intelligence.png)
+![Netflix Country and Genre Dashboard](Screenshots/Country_and_Genre_Intelligence.png)
 
 ## Key Metrics
 
