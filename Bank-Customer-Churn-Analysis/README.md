@@ -9,7 +9,7 @@ The dashboard uses interactive visualizations, KPI cards, slicers, and AI-powere
 ## Dashboard Preview
 
 ### 1. Landing Page
-![Bank Customer Churn Landing Page](Screenshots/Bank_Customer_Churn_Landing_Page.png)
+![Bank Customer Churn Landing Page](Screenshots/Landing_Page.png)
 
 ### 2. Customer Churn Overview
 ![Customer Churn Overview](Screenshots/Customer_Churn_Overview.png)
